@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'Python', 'Flask', 'SQL', 'Vue', 'Angular', 'Azure'];
+  const skills = ['JavaScript (ES6+)', 'TypeScript', 'Python', 'Flask', 'SQL', 'Vue', 'Angular', 'Azure', 'Java', 'Git'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -136,7 +136,7 @@ const About = () => {
           <div>
             <p>
               Hello! My name is Aayush and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2018 when I decided to try creating an Airbnb
+              interest in web development started back in 2018 when I decided to try creating an Airbnb clone
               — turns out creating a simple static clone taught me a lot
               about HTML, CSS &amp; JavaScript!
             </p>
