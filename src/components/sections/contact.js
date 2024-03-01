@@ -60,7 +60,7 @@ const Contact = () => {
       <h2 className="title">Get In Touch</h2>
 
       <p>
-        I'm on the lookout for an exciting summer internship!
+        I'm on the lookout for Frontend/Full-Stack Developer opportunities in USA!
         Feel free to drop a line with any opportunities or just to say hi.
         My inbox is open, and I'll get back to you with a smile as soon as possible! 😊
       </p>
