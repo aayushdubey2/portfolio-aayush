@@ -1,7 +1,7 @@
 ---
 title: 'Machine Learning with Python: IBM'
 github: ''
-external: 'https://www.credly.com/earner/earned/badge/364dd2b6-4075-4269-a0e6-38e81854451d'
+external: 'https://www.credly.com/badges/364dd2b6-4075-4269-a0e6-38e81854451d/public_url'
 tech:
   - Classification
   - Clustering

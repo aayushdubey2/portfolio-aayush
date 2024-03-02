@@ -1,7 +1,7 @@
 ---
 title: 'Applied Data Science with Python: IBM'
 github: ''
-external: 'https://www.credly.com/earner/earned/badge/951d765a-fc0a-4043-9567-0b6b48f4a28c'
+external: 'https://www.credly.com/badges/951d765a-fc0a-4043-9567-0b6b48f4a28c/public_url'
 tech:
   - Data Cleaning
   - Data Preperation

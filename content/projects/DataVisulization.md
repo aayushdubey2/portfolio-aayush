@@ -1,7 +1,7 @@
 ---
 title: 'Data Visualization with Python: IBM'
 github: ''
-external: 'https://www.credly.com/earner/earned/badge/307396aa-ecae-4022-911e-85b70f5c53be'
+external: 'https://www.credly.com/badges/307396aa-ecae-4022-911e-85b70f5c53be/public_url'
 tech:
   - Matplotlib
   - Seaborn

@@ -1,7 +1,7 @@
 ---
 title: 'NPTEL Python'
 github: ''
-external: ''
+external: 'https://drive.google.com/file/d/1dobViwpsLAn-w7pex7iiwlKMl8Hy-PVa/view'
 tech:
   - DSA
 company: 'IIT Madras'

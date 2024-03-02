@@ -1,7 +1,7 @@
 ---
 title: 'Data Analysis with Python: IBM'
 github: ''
-external: 'https://www.credly.com/badges/a0fe6526-b1a3-488e-8541-ec0d0a207538/linked_in_profile'
+external: 'https://www.credly.com/badges/a0fe6526-b1a3-488e-8541-ec0d0a207538/public_url'
 tech:
   - Data Collection
   - Data Processing
